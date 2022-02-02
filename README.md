@@ -2,4 +2,4 @@
 Desafio de Projeto  sobre  Git/GitHub
 
 ## links úteis
-[Sintax basia Diguital innovation](https://www.dio.me/sign-in/)
+[Sintax basia Diguital innovation](https://https://www.dio.me/sign-up/)
